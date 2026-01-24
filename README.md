@@ -1,2 +1,2 @@
 # projeto-final
-projeto final do curso de javaScript 
+Projeto final do curso de JavaScript.
